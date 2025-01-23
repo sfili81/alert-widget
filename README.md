@@ -1,5 +1,7 @@
 ###Alert Widget for Yii2
 
+This widget offers an easy method to embed an alert on your page without any css dependency.
+
 The preferred way to install this extension is through [composer](https://getcomposer.org/download/).
 Either run
 ```
