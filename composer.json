@@ -1,5 +1,5 @@
 {
-    "name": "sfili81/yii2-alert-widget",
+    "name": "sfili81/alert-widget",
     "description": "Alert widget without bootstrap dependency",
     "type": "yii2-widget",
     "keywords": ["yii2","widget","alert"],
